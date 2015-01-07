@@ -1,0 +1,3 @@
+[submodule "jquery-textcomplete"]
+	path = jquery-textcomplete
+	url = git@github.com:yuku-t/jquery-textcomplete.git
