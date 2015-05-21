@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Add a Meteor.isMobile boolean variable",
-  version: "0.3.6_1",
+  version: "0.3.7_1",
   name: "mquandalle:jquery-textcomplete",
   git: "https://github.com/mquandalle/meteor-jquery-textcomplete.git"
 });
